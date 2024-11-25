@@ -13,5 +13,6 @@ public class Facultad_de_recursos_naturales {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Me gusta la materia: ");
+        System.out.println("Bienvenido a la facultad de orellana");
     }
 }
